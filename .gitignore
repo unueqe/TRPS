@@ -1,0 +1,25 @@
+# Среды разработки
+.idea/
+.vscode/
+*.swp
+*.swo
+
+
+# Локальное окружение
+.env
+.env.local
+*.local
+
+
+# Артефакты сборки
+dist/
+build/
+out/
+node_modules/
+__pycache__/
+*.pyc
+
+
+# Логи и временные файлы
+*.log
+tmp/
