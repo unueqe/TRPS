@@ -1,0 +1,9 @@
+config:
+  line-length: false          # длинные строки допустимы
+  no-inline-html: false       # разрешаем HTML для диаграмм
+  no-duplicate-heading:
+    siblings_only: true
+  no-trailing-spaces:
+    br_spaces: 0              # перенос строки двумя пробелами запрещён
+ignores:
+  - "**/node_modules/**"
