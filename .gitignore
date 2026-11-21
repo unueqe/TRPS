@@ -1,3 +1,9 @@
+# Операционная система
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
 # Среды разработки
 .idea/
 .vscode/
